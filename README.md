@@ -1,2 +1,2 @@
-# S-ries-Temporais
-Análises de séries temporais
+# Series-Temporais
+Projeto de estudos sobre análises de séries temporais
